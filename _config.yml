@@ -1,21 +1,20 @@
 # Site settings
-title: Thomas Zühlke
+title: Zirui Liu
 description: 'Business Card Page'
-url: 'http://thomas.zuehlke.family'
+url: 
 baseurl: ''
-profilepic: '/images/tzuehlke.jpg'
+profilepic: 'WechatIMG199_gaitubao_238x306.jpeg'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
 author:
-  name: 'Thomas Zühlke'
-  email: info@thomas-zuehlke.de
-  twitter_username: thomzuehlke
-#  facebook_username: joshgerdes
-  github_username:  tzuehlke
-  linkedin_username:  thomas-zühlke-889182165
-  meetup_name: Azure-Meetup-Rostock-MV
+  name: 'Zirui Liu'
+  email: zl398@cornell.edu
+#  facebook_username: 
+  github_username:  zl398
+  linkedin_username:  glorialiuzirui
+  
 
 # Build settings
 destination: _site
